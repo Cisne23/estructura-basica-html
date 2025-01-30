@@ -1,4 +1,4 @@
-#estrucutura básica HTML
+#estructura básica HTML
 
 ## Instrucciones
 ```bash
